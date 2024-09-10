@@ -1,7 +1,7 @@
 # C Graph Exploration Program
 This is a program developed to solve a challenge given to me during my studies in which a random graph is generated (in the form of planets and connections) which must he explored to find the goal planet in the minimum number of moves.
 
-The project is in two parts, first `space_explorer.c` and `space_explorer.h` are responsible for generating the graph and exposing the function `space_hop`. Then in `space_solution.c` in this body of the `space_hop` function, the solution must be developed. 
+The project is in two parts, first `space_explorer.c` and `space_explorer.h` are responsible for generating the graph and exposing the function `space_hop`. Then in `space_solution.c` in the body of the `space_hop` function, the solution must be developed. 
 
 # Running the Program
 Compile the C files and ensure to link in the math library. Using GCC this looks like:
